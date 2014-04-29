@@ -1,0 +1,33 @@
+{
+  "name": "wifi",
+  "version": "1.0.0",
+  "description": "WiFi info",
+  "main": "index.js",
+  "dependencies": {},
+  "engines": {
+    "node": "~0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RhinoLance/node-wifi.git"
+  },
+  "keywords": [
+    "wifi"
+  ],
+  "author": {
+    "name": "Lance Conry",
+    "email": "lance@rhinosw.com",
+    "url": "http://www.rhinosw.com/"
+  },
+  "license": "BSD",
+  "readme": "",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/RhinoLance/node-wifi/issues"
+  },
+  "homepage": "https://github.com/RhinoLance/node-wifi",
+  "_id": "node-wifi@0.2.1",
+  "dist": {
+    "shasum": "ca199e39ce2e9ac7ccfef537d1c99abc1c88d9b5"
+  }
+}
